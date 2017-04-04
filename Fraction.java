@@ -1,10 +1,12 @@
-import java.util.*;
 /**
- * Write a description of class Fraction here.
+ * Template for a Fraction object that has methods for addition, subtraction,
+ * multiplication, division, as well as comparing fractions and creating a
+ * random fraction.
  *
  * @author Matthew Bavis
  * @version April 2, 2017
  */
+import java.util.*;
 public class Fraction
 {
     private int numerator;

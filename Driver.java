@@ -1,10 +1,10 @@
-import java.util.*;
 /**
- * Write a description of class Driver here.
+ * Driver for the Fraction class.
  *
  * @author (your name)
  * @version (a version number or a date)
  */
+import java.util.*;
 public class Driver
 {
     public static void main(String[] args) {
