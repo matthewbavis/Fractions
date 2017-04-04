@@ -1,8 +1,8 @@
 /**
  * Driver for the Fraction class.
  *
- * @author (your name)
- * @version (a version number or a date)
+ * @author Matthew Bavis
+ * @version April 2, 2017
  */
 import java.util.*;
 public class Driver
